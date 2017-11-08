@@ -1,0 +1,235 @@
+﻿AdminPasswordAdmin PasswordПароль администратораПароль адміністратора
+BlockersBlockersБлокировкаБлокування
+CleanersCleanersОчистителиОчисники
+ContactorsContactorsКонтакторыКонтактори
+dC°C°C°C
+FCsFCПЧПЧ
+FrequencyFrequencyЧастотаЧастота
+Humidity 1Humidity 1Влажность 1Вологість 1
+Humidity 2Humidity 2Влажность 2Вологість 2
+HVPSesHVPSВБПВДЖ
+HzHzГцГц
+ImpulseImpulseИмпульсІмпульс
+Input currentInput currentВходящий токВхідний струм
+Input voltageInput voltageВходящее напряжениеВхідна напруга
+kVkVкВкВ
+mAmAмАмА
+Max frequencyMax frequencyМаксимальная частотаМаксимальна частота
+Max input currentMax input currentМаксимальный входящий токМаксимальний вхідний струм
+Max input voltageMax input voltageМаксимальное входящее напряжениеМаксимальна вхідна напруга
+Max output voltageMax output voltageМаксимальное исходящее напряжениеМаксимальна вихідна напруга
+Min frequencyMin frequencyМинимальная частотаМінімальна частота
+Min input voltageMin input voltageМинимальный вхоящий токМінімальний вхідний струм
+Min output voltageMin output voltageМинимальное исходящее напряжениеМінімальна вихідна напруга
+Output voltageOutput voltageИсходящее напряжениеВихідна напруга
+PausePauseПаузаПауза
+%%%%
+ssсс
+Sensor voltage at 0 mASensor voltage at 0 mAНапряжение на датчике при 0 мАНапруга на датчику при 0 мА
+Sensor voltage at max mASensor voltage at max mAНапряжение на датчике при максимальном токеНапруга на датчику при максимальному струмі
+Start delayLaunch delayЗапускЗапуск
+Stop delayStop delayОстановЗупинка
+Max swipe durationMax swipe durationМаксимальная длительность проходаМаксимальний час проходу
+Swipe pauseSwipe pauseПауза между проходамиПауза між проходами
+Temperature 1Temperature 1Температура 1Температура 1
+Temperature 2Temperature 2Температура 2Температура 2
+Auto modeAuto modeАвто-режимАвто-режим
+Calibration settingsCalibration settingsНастройки калибровкиНалаштування калібрування
+CloseExit programЗакрыть программуЗакрити програму
+Content settingsContent settingsНастройки комплектацииНалаштування комплектації
+Language settingsLanguage settingsЯзыковые настройкиНалаштування мови
+Launch in direction 1Launch in direction 1Запустить в направлении 1Запустити у напрямку 1
+Launch in direction 2Launch in direction 2Запустить в направлении 2Запустити у напрямку 2
+LoadLoadЗагрузитьЗавантажити
+Manual modeManual modeРучной режимРучний режим
+ResetResetСброс аварииСкидання аварії
+SaveSaveСохранитьЗберегти
+SettingsSettingsНастройкиНалаштування
+StartStartЗапускЗапуск
+StopStopОстановкаЗупинка
+Technology settingsTechnology settingsНастройки технологииНалаштування технології
+EmergencyEmergencyНеисправностьНесправність
+LaunchedLaunchedЗапущенЗапущено
+StandbyStandbyОжиданиеОчікування
+StoppedStoppedОстановленЗупинено
+Launched in direction 1Launched in direction 1Запущен в направлении 1Запущено в напрямку 1
+Launched in direction 2Launched in direction 2Запущен в направлении 2Запущено в напрямку 2
+MotorhoursMotorhoursМоточасыМотогодини
+Cleaner 1Cleaner 1Очиститель 1Очисник 1
+Cleaner 2Cleaner 1Очиститель 2Очисник 2
+Cleaner 1 settingsCleaner 1Очиститель 1Очисник 1
+Cleaner 2 settingsCleaner 2Очиститель 2Очисник 2
+Contactor 1Sieve screw 2Шнек сита 2Шнек сита 2
+Contactor 2Sieve screw 3Шнек сита 3Шнек сита 3
+Contactor 3PVC 1PVC 1PVC 1
+Contactor 4PVC 3.1PVC 3.1PVC 3.1
+Contactor 5PVC 3.2PVC 3.2PVC 3.2
+Contactor 6PVC 3.3PVC 3.3PVC 3.3
+Contactor 7PETPETPET
+Contactor 8Vibrator 2Вибратор 2Вібратор 2
+Contactor 9SieveСитоСито
+Contactor 10Zig-zag 2Зигзаг 2Зигзаг 2
+Contactor 1 settingsSieve screw 2Шнек сита 2Шнек сита 2
+Contactor 2 settingsSieve screw 3Шнека сита 3Шнек сита 3
+Contactor 3 settingsPVC 1PVC 1PVC 1
+Contactor 4 settingsPVC 3.1PVC 3.1PVC 3.1
+Contactor 5 settingsPVC 3.2PVC 3.2PVC 3.2
+Contactor 6 settingsPVC 3.3PVC 3.3PVC 3.3
+Contactor 7 settingsPETPETPET
+Contactor 8 settingsVibrator 2Вибратор 2Вібратор 2
+Contactor 9 settingsSieveСитоСито
+Contactor 10 settingsZig-zag 2Зигзаг 2Зигзаг 2
+FC 1Loading screw 1Загрузочный шнек 1Шнек завантаження 1
+FC 2Loading screw 2.1Загрузочный шнек 2.1Шнек завантаження 2.1
+FC 3Loading screw 2.2Загрузочный шнек 2.2Шнек завантаження 2.2
+FC 4Loading screw 3Загрузочный шнек 3Шнек завантаження 3
+FC 5Off-center zig-zag fanОтцентровой вентилятор зигзагаВідцентровий вентилятор зигзагу
+FC 6Settling electrodeОсаждающий электродОсаджуючий електрод
+FC 7Distributing screwШнек-распределительРозподільчий шнек
+FC 8FC 8ПЧ 8ПЧ 8
+FC 9FC 9ПЧ 9ПЧ 9
+FC 1 settingsLoading screw 1Загрузочный шнек 1Шнек завантаження 1
+FC 2 settingsLoading screw 2.1Загрузочный шнек 2.1Шнек завантаження 2.1
+FC 3 settingsLoading screw 2.2Загрузочный шнек 2.2Шнек завантаження 2.2
+FC 4 settingsLoading screw 3Загрузочный шнек 3Шнек завантаження 3
+FC 5 settingsOff-center zig-zag fanОтцентровой вентилятор зигзагаВідцентровий вентилятор зигзагу
+FC 6 settingsSettling electrodeОсаждающий электродОсаджуючий електрод
+FC 7 settingsDistributing screwШнек-распределительРозподільчий шнек
+FC 8 settingsFC 8ПЧ 8ПЧ 8
+FC 9 settingsFC 9ПЧ 9ПЧ 9
+HVPS 1HVPSВБПВДЖ
+HVPS 2VibrofeederВибропитательВіброживильник
+HVPS 1 settingsHVPS 1ВБПВДЖ
+HVPS 2 settingsHVPS 2ВибропитательВіброживильник
+Revert polarityRevert polarityОбернуть полярностьОбернути полярність
+AAAA
+BackBackНазадНазад
+Electrostatic SeparatorElectrostatic separatorЭлектростатический сепараторЕлектростатичний сепаратор
+Settling ElectrodeSettling electrodeОсаждающий электрод (барабан)Осаджуючий електрод (барабан)
+VibrofeederVibrofeederВибропитательВіброживильник
+HVPSHVPSВБПВДЖ
+TemperatureTemperatureТемператураТемпература
+HumidityHumidityВлажностьВологість
+InsideInsideВнутриВсередині
+OutsideOutsideСнаружиЗовні
+Distributing ScrewDistributing screwШнек-распределительШнек-розподільник
+Load Screw 1Load screw 1Шнек загрузки 1Шнек завантаження 1
+Load Screw 2.1Load screw 2.1Шнек загрузки 2.1Шнек завантаження 2.1
+Load Screw 2.2Load screw 2.2Шнек загрузки 2.2Шнек завантаження 2.2
+Load Screw 3Load screw 3Шнек загрузки 3Шнек завантаження 3
+Zig-zag Off-center FanZig-zag off-center fanОтцентровой вентилятор зигзагаВідцентровий вентилятор зигзага
+Blocking SystemBlocking systemСистема блокировкиСистема блокування
+Blocker Message 1Close door #1Закройте дверь #1Закрийте двері #1
+Blocker Message 2Close door #2Закройте дверь #2Закрийте двері #2
+Blocker Message 3Close door #3Закройте дверь #3Закрийте двері #3
+Blocker Message 4Close door #4Закройте дверь #4Закрийте двері #4
+Blocker Message 5Close door #5Закройте дверь #5Закрийте двері #5
+Blocker Message 6Close door #6Закройте дверь #6Закрийте двері #6
+Blocker Message 7Close door #7Закройте дверь #7Закрийте двері #7
+Blocker Message 8Close door #8Закройте дверь #8Закрийте двері #8
+Blocker Message 9Close door #9Закройте дверь #9Закрийте двері #9
+Blocker Message 10Safety valve #10 triggeredСработал предохранительный клапан #10Спрацював запобіжний клапан #10
+Blocker Message 11Safety valve #11 triggeredСработал предохранительный клапан #11Спрацював запобіжний клапан #11
+Blocker Message 12Safety valve #12 triggeredСработал предохранительный клапан #12Спрацював запобіжний клапан #12
+Blocker Message 13Safety valve #13 triggeredСработал предохранительный клапан #13Спрацював запобіжний клапан #13
+Disable Manual Mode Limitations  Disable manual mode limitations  Отключить ограничения ручного режима  Відключити обмеження ручного режиму
+Output CurrentOutput currentИсходящий токВихідний струм
+AdjustAdjustПодстроитьПідлаштувати
+Manual Mode: SchemeManual Mode: SchemeРучной режим: схемаРучний режим: схема
+ReadyReadyГотовоГотово
+Emergency Button PressedEmergency button pressedНажата аварийная кнопкаНатиснуто аварійну кнопку
+Encountered a BC Errorencountered a BC errorстолкнулся с ошибкой БКзіткнувся з помилкою БК
+Encountered a Hardware Errorencountered a hardware errorстолкнулся с ошибкой устройствазіткнувся з помилкою пристрою
+Encountered an Errorencountered an errorстолкнулся с ошибкойзіткнувся з помилкою
+codecodeкодкод
+Manual Mode Limitations DisabledManual mode limitations disabledОграничения ручного режима отключеныОбмеження ручного режиму відключено
+The operator is fully responsible for any actions taken in this mode.The operator is fully responsible for any actions taken in this mode.Оператор несёт полную ответственность за произведённые в этом режиме действия.Оператор несе повну відповідальність за виконані в цьому режимі дії.
+Connection lostConnection lostСоединение потеряноЗ'єднання втрачено
+Do you really want to overwrite the Do you really want to overwrite the Вы действительно хотите переписать набор настроек Ви дійсно хочете переписати набір налаштувань 
+ settings set settings set
+ConfirmationConfirmationПодтверждениеПідтвердження
+LogsLogsЖурналЖурнал
+FC Error 0.0Error code not receivedКод ошибки не принятКод несправності не прийнято
+FC Error 1.0Inverter overtemperatureПерегрев инвертераПерегрів інвертера
+FC Error 1.1Internal FI overtemperatureПерегрев внутреннего ПЧПерегрів внутрішнього ПЧ
+FC Error 2.0Motor thermistor overtemperatureПерегрев термистора мотораПерегрів термістора мотора
+FC Error 2.1Motor I2t overtemperatureПерегрев I2t мотораПерегрів I2t мотора
+FC Error 2.2External brake resistor overtemperatureПерегрев внешнего тормозного резистораПерегрів зовнішнього гальмівного резистора
+FC Error 3.0I2t overcurrent limitПревышение тока I2tПеревищення сили струму I2t
+FC Error 3.1I2t brake chopper overtemperatureПревышение температуры тормозного винтаПеревищення температури гальмівного гвинта
+FC Error 3.2IGBT overcurrentПревышение тока IGBTПеревищення сили струму IGBT
+FC Error 3.3IGBT fast overcurrentРезкое превышение тока IGBTРізке перевищення сили струму IGBT
+FC Error 4.0Module overcurrentПревышение тока модуляПеревищення струму модуля
+FC Error 4.1Overcurrent measurementИзмеренное превышение токаВиміряне перевищення струму
+FC Error 5.0UZW overvoltageПревышение напряжения в цепиПеревищення напруги в ланцюзі
+FC Error 5.1Mains overvoltageПревышение напряжения питанияПеревищення напруги живлення
+FC Error 6.0Charging errorОшибка зарядкиПомилка заряджання
+FC Error 6.1Mains undervoltageНизкое напряжение питанияНизька напруга живлення
+FC Error 7.0Mains phase errorОшибка фазы питанияПомилка фази живлення
+FC Error 8.0Parameter lossПотеря параметровВтрата параметрів
+FC Error 8.1Inverter type incorrectНеправильный тип инвертераНеправильний тип інвертера
+FC Error 8.2External copying errorОшибка внешнего копированияПомилка зовнішнього копіювання
+FC Error 8.3EEPROM KSE errorОшибка EEPROM KSEПомилка EEPROM KSE
+FC Error 8.4Internal EEPROM errorВнутренняя ошибка EEPROMВнутрішня помилка EEPROM
+FC Error 8.5No EEPROM recognisedEEPROM не найденаEEPROM не знайдено
+FC Error 8.6EEPROM copy usedИспользована копия EEPROMЗастосована копія EEPROM
+FC Error 8.7EEPROM copies don't matchКопии EEPROM не совпадаютКопії EEPROM не співпадають
+FC Error 8.8EEPROM is emptyEEPROM пустаEEPROM порожня
+FC Error 8.9ControlBox EEPROM too smallEEPROM ControlBox слишком малаEEPROM ControlBox замала
+FC Error 9.0ControlBox errorОшибка ControlBoxПомилка ControlBox
+FC Error 10.0CANBus timeoutТаймаут CANBusТаймаут CANBus
+FC Error 10.1CANBus module system errorСистемная ошибка модуля CANBusСистемна помилка модуля CANBus
+FC Error 10.2CANBus module timeoutТаймаут модуля CANBusТаймаут модуля CANBus
+FC Error 10.3CANBus module system errorСистемная ошибка модуля CANBusСистемна помилка модуля CANBus
+FC Error 10.4CANBus option init errorОшибка инициализации опций CANBusПомилка ініціалізації опцій CANBus
+FC Error 10.5CANBus module system errorСистемная ошибка модуля CANBusСистемна помилка модуля CANBus
+FC Error 10.6CANBus module system errorСистемная ошибка модуля CANBusСистемна помилка модуля CANBus
+FC Error 10.7CANBus module system errorСистемная ошибка модуля CANBusСистемна помилка модуля CANBus
+FC Error 10.8CANBus option errorОшибка опций CANBusПомилка опцій CANBus
+FC Error 11.0ADC errorОшибка АЦППомилка АЦП
+FC Error 12.0External watchdogСработал внешний сторожевой таймерСпрацював зовнішній сторожовий таймер
+FC Error 12.1Motor switch-off limitПревышение ограничения отключения двигателяПеревищення обмеження відключення двигуна
+FC Error 12.2Generator switch-off limitПревышение ограничения отключения генератораПеревищення обмеження відключення генератора
+FC Error 12.5Load limitПревышение ограничения нагрузкиПеревищення обмеження навантаження
+FC Error 12.8Analog minimum undershotПолучен аналоговый сигнал ниже минимальногоОтримано аналоговий сигнал нижче мінімального
+FC Error 12.9Analog maximum overshotПолучен аналоговый сигнал выше максимальногоОтримано аналоговий сигнал вище максимального
+FC Error 13.0Encoder errorОшибка энкодераПомилка енкодера
+FC Error 13.1Slip speed errorОшибка скорости скольженияПомилка швидкості ковзання
+FC Error 13.2Shutdown monitoringМониторинг отключенияМоніторинг відключення
+FC Error 13.5ReservedЗарезервированоЗарезервовано
+FC Error 13.6ReservedЗарезервированоЗарезервовано
+FC Error 14.0ReservedЗарезервированоЗарезервовано
+FC Error 15.0ReservedЗарезервированоЗарезервовано
+FC Error 16.0Motor phase errorОшибка фазы двигателяПомилка фази двигуна
+FC Error 16.1Magnetisation current monitoringМониторинг тока магнетизацииМоніторинг струму магнетизації
+FC Error 17.0Customer interface faultОшибка интерфейса пользователяПомилка інтерфейсу користувача
+FC Error 18.0ReservedЗарезервированоЗарезервовано
+FC Error 19.0Parameter identificationИдентификация параметровІдентифікація параметрів
+FC Error 19.1Incorrect star/delta circuitНекорректное подключение звезда/треугольникНекоректне підключення зірка/трикутник
+FC Error 20.0ReservedЗарезервированоЗарезервовано
+FC Error 20.1WatchdogСторожевой таймерСторожовий таймер
+FC Error 20.2Stack overflowПереполнение стекаПереповнення стека
+FC Error 20.3Stack underflowВыход за начало стекаВихід за початок стека
+FC Error 20.4Undefined opcodeНеопределённый код операцииНевизначений код операції
+FC Error 20.5Protected instructionЗащищённая командаЗахищена команда
+FC Error 20.6Illegal word accessОбращение к запрещённому словуЗвернення до забороненого слова
+FC Error 20.7Illegal instruction accessОбращение к запрещённой командеЗвернення до забороненої команди
+FC Error 20.8Memory errorОшибка запоминающего устройстваПомилка запам'ятовуючого пристрою
+FC Error 20.9Dual-ported RAMДвухпортовая памятьДвопортова пам'ять
+FC Error 21.0Non-maskable interruption (NMI)Немаскируемое прерывание (NMI)Немасковане переривання (NMI)
+FC Error 21.1PLL errorОшибка PLLПомилка PLL
+FC Error 21.2ADU errorОшибка ADUПомилка ADU
+FC Error 21.3PMI errorОшибка PMIПомилка PMI
+FC Error 21.4Userstack overflowПереполнение стека пользователяПереповнення стека користувача
+FC Error 22.0ReservedЗарезервированоЗарезервовано
+FC Error 23.0ReservedЗарезервированоЗарезервовано
+FC Error 24.0ReservedЗарезервированоЗарезервовано
+IntegerIntegerЦелаяЦіла
+DecimalDecimalДробнаяДрібна
+EraseEraseСтеретьСтерти
+CancelCancelОтменитьВідмінити
+WriteWriteЗаписатьЗаписати
+PolarityPolarityПолярностьПолярність
+Please confirm the polarity switch.Please confirm the polarity switch.Пожалуйста, подтвердите смену полярности.Будь-ласка, підтвердьте зміну полярності.
+Do you really want to delete the Do you really want to delete the Вы действительно хотите удалить набор настроек Ви дійсно хочете видалити набір налаштувань 
+DeleteDeleteУдалитьВидалити
